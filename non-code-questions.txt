@@ -1,0 +1,9 @@
+2. 
+Arrays: Fixed size(cannot change)
+Vectors: Dynamic size
+Arrays should be used when confident about the size and when performance is needed(arrays have less overhead)
+
+3. 
+
+4. Iterators: Generalization of pointers for containder containers(e.g lists, vectors, arrays)
+Adavantage: Containder Independence
